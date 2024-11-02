@@ -26,5 +26,6 @@ Circle(double radius): Создает новый объект Circle с зада
 
 getArea(): Возвращает площадь круга (π * радиус²).
 getCircumference(): Возвращает длину окружности круга (2 * π * радиус).
- написано на
+ 
+написано на
 ![58480979cef1014c0b5e4901](https://github.com/user-attachments/assets/93f5026a-1cbc-4b84-8a99-a2db7dfc8850)
